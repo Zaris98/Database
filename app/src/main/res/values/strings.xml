@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ZOUA</string>
+    <string name="Logo">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="name">Name</string>
+    <string name="title_activity_event">Event</string>
+    <string name="addEventTitle">Create Event</string>
+    <string name="EventTitle">Event</string>
+    <string name="Profiletitle">Profile</string>
+    <string name="UpdateProfileTitle">Update Profile</string>
+    <string name="UpdatePasswordTitle">Update Password</string>
+    <string name="ForgottenPassword">Password Reset</string>
+    <string name="UserGuide">User Guide</string>
+    <string name="google_place_api">AIzaSyAc62F1GtBy3bDOkSpI-baPCH1s0WwTf3c</string>
+
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="last_date">30</string>
+    <string name="profile">Profile</string>
+    <string name="database">Database</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_datalayout">datalayout</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

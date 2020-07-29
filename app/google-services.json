@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899300237762",
+    "firebase_url": "https://zoua-f2561.firebaseio.com",
+    "project_id": "zoua-f2561",
+    "storage_bucket": "zoua-f2561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899300237762:android:31b7478e5d407dac99f65b",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899300237762-37pa766tsacmjp86c4m1vcvj5mlhehg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtvSHGxTQHtHMPYG-nfntq2ssUVysWGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899300237762-37pa766tsacmjp86c4m1vcvj5mlhehg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

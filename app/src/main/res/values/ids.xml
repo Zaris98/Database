@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="SaveEvent" type="id" />
+    <item name="DateInput" type="id" />
+    <item name="eventTitle3" type="id" />
+    <item name="LocationPicker" type="id" />
+    <item name="EventDescription" type="id" />
+    <item name="TimeInput" type="id" />
+    <item name="Location" type="id" />
+    <item name="Description" type="id" />
+</resources>
